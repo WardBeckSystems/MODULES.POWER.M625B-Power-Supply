@@ -44,7 +44,7 @@ of
 
 ```json
 {
- "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 3.jpeg",
+ "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 3.jpeg",
  "sha256": "9f487b1820c18b9d084e740527a6195c64640edce70861bea642b3e85d49acb5",
  "kind": "module",
  "models": [
