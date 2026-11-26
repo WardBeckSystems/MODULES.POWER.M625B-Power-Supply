@@ -35,7 +35,7 @@ Wiki page: [M625B](../../../../PAGES/M625B.md)
 - **Closed boxes:** 37
 - **Wiring (first pass):** 72 connected wire groups from 589 runs
 
-Every curve, box, word and wire group: [1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6 (traced).json](../SCHEMATICS/1988%20-%203642-02-011%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ISS%206%20(traced).json) (the CAD file: `1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6 (traced).json](../SCHEMATICS/1988%20-%203642-02-011%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6 (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M625B](../../../../PAGES/M625B.md)
 - **Words (OCR):** 12 in 12 lines: Rs · R2 · Rs · Jz (BLACK) · (RED) · WBS · Sw2 · M6258 · ENG: · FOWERESUPAY · ICALE · 625-06-Uo
 - **Title block:** (216, 13)–(260, 50) mm: WBS · ENG:
 
-Every curve, box, word and wire group: [1978 - M625B - 625-06-002 - LSMPONM EYOU' ICALE SUE (traced).json](../SCHEMATICS/1978%20-%20M625B%20-%20625-06-002%20-%20LSMPONM%20EYOU%27%20ICALE%20SUE%20(traced).json) (the CAD file: `1978 - M625B - 625-06-002 - LSMPONM EYOU' ICALE SUE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - 625-06-002 - LSMPONM EYOU' ICALE SUE (traced).json](../SCHEMATICS/1978%20-%20M625B%20-%20625-06-002%20-%20LSMPONM%20EYOU%27%20ICALE%20SUE%20%28traced%29.json) (the CAD file: `1978 - M625B - 625-06-002 - LSMPONM EYOU' ICALE SUE (traced).dxf`).
 
 ## Full text
 

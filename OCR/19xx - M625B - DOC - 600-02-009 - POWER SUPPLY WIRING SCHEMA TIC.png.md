@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (265, 40)–(432, 108) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. JRG · 02/87 · ENG_ Ka · POWER SUPPLY WIRING · CKD · SCHEMA TIC · APP_ · SCALE DISC NO: 130 · 600-02-009 · ISSUE · CODE: 600509
 - **Wiring (first pass):** 27 connected wire groups from 191 runs; labelled ends: 856 mm → P2-123, P2-_123, CHASSIS, P1-5; 333 mm → (WRED BY CUSTOMER); 67 mm → P2-123, TB9; 67 mm → P2-_123; 62 mm → TB9
 
-Every curve, box, word and wire group: [19xx - M625B - DOC - 600-02-009 - POWER SUPPLY WIRING SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M625B%20-%20DOC%20-%20600-02-009%20-%20POWER%20SUPPLY%20WIRING%20SCHEMA%20TIC%20(traced).json) (the CAD file: `19xx - M625B - DOC - 600-02-009 - POWER SUPPLY WIRING SCHEMA TIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M625B - DOC - 600-02-009 - POWER SUPPLY WIRING SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M625B%20-%20DOC%20-%20600-02-009%20-%20POWER%20SUPPLY%20WIRING%20SCHEMA%20TIC%20%28traced%29.json) (the CAD file: `19xx - M625B - DOC - 600-02-009 - POWER SUPPLY WIRING SCHEMA TIC (traced).dxf`).
 
 ## Full text
 

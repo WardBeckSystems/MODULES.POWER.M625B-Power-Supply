@@ -23,7 +23,7 @@ Wiki page: [M625B](../../../../PAGES/M625B.md)
 - **Title block:** (125, 13)–(329, 125) mm: 10/78 CR ADDED · 6/78 · REDRAWN _ · Scr Circuit ADDED · ISSUE DATE · REVISION · WBS WARD-BECK · SYSTEME · DRN: MRW 6/78 · 1-117 · ENG_ MRW · REGULATOR BOARD · CKD: Rm · SCHEMATIC · APP · SCALE · ISSUE
 - **Wiring (first pass):** 15 connected wire groups from 98 runs; labelled ends: 303 mm → R47, 22/25, Q8, Zn4037; 177 mm → R47, Ik, R48, iok; 132 mm → R4g, 4k7; 121 mm → Q8, Zn4037, 07, 2n4o37; 84 mm → 0182, 10/78
 
-Every curve, box, word and wire group: [1978 - M625B - 1-117-02-001 - NOTES ALL RESISTORS ARE (traced).json](../SCHEMATICS/1978%20-%20M625B%20-%201-117-02-001%20-%20NOTES%20ALL%20RESISTORS%20ARE%20(traced).json) (the CAD file: `1978 - M625B - 1-117-02-001 - NOTES ALL RESISTORS ARE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - 1-117-02-001 - NOTES ALL RESISTORS ARE (traced).json](../SCHEMATICS/1978%20-%20M625B%20-%201-117-02-001%20-%20NOTES%20ALL%20RESISTORS%20ARE%20%28traced%29.json) (the CAD file: `1978 - M625B - 1-117-02-001 - NOTES ALL RESISTORS ARE (traced).dxf`).
 
 ## Full text
 

@@ -28,7 +28,7 @@ Wiki page: [M625B](../../../../PAGES/M625B.md)
 - **Closed boxes:** 2
 - **Words (OCR):** 5 in 5 lines: PCE · Sw · J2 (BLACK) · (RED) · Sw2
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p1 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p1%20(traced).json) (the CAD file: `1978 - M625B - Power supply p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p1 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p1%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p1 (traced).
 - **Outlines:** line 84 rings, 1,444 straight (3,309 mm) / 193 curved (284 mm); text 138 rings, 1,282 straight (1,800 mm) / 294 curved (493 mm)
 - **Words (OCR):** 11 in 5 lines: WAAD-EECX sYatema LTD. · WES 341 F=CGFES= AVENLE SCAFECFCLCC SNTAFIC MtF2x: · Ce5-25253 · M625B · POWER SUPPLY
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p2 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p2%20(traced).json) (the CAD file: `1978 - M625B - Power supply p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p2 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p2%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p2 (traced).
 - **Words (OCR):** 131 in 74 lines: WAAD-BECX Systems LTD_ · TECHNICAL DATA · M6258 POWER · SUPPLY · DC Output: · +25 volts at · Ioad currents · from · to · amperes · Line Regulation: · 0.1%
 - **Title block:** (18, 101)–(275, 425) mm: WAAD-BECX Systems LTD_ · TECHNICAL DATA · M6258 POWER · SUPPLY · DC Output: · +25 volts at · Ioad currents · from · to · amperes · Line Regulation: · 0.1% · for Iine · variations from 105 125 · to · o
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p3 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p3%20(traced).json) (the CAD file: `1978 - M625B - Power supply p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p3 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p3%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p3 (traced).
 - **Words (OCR):** 268 in 132 lines: WAAD-BECX Systems LTD_ · CIRcuiT DESCRIPTION · M625B POWER · SUPPLY · The M625B is · +25 volt dc power · supply which is · capable of · delivering currents up · of · t0 · amperes.
 - **Title block:** (20, 166)–(173, 425) mm: WAAD-BECX Systems LTD_ · CIRcuiT DESCRIPTION · M625B POWER · The M625B is · +25 volt dc power · delivering currents up · of · t0 · amperes. · The primary · inding of the power · operation · from 115/2
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p4 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p4%20(traced).json) (the CAD file: `1978 - M625B - Power supply p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p4 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p4%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p4 (traced).
 - **Outlines:** line 68 rings, 944 straight (3,242 mm) / 163 curved (255 mm); text 1,521 rings, 11,162 straight (12,318 mm) / 3,266 curved (5,097 mm)
 - **Words (OCR):** 272 in 147 lines: WAAD-BECX Systems LTD, · TEST · SETUP PROCEDURE · M625B · POWER SUPPLY · ~Remove · PCB 1-117 . Check for · ac voltage strapping on · JI _ · ~Apply power · and check for presence · of approximately
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p5 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p5%20(traced).json) (the CAD file: `1978 - M625B - Power supply p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p5 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p5%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p5 (traced).dxf`).
 
 ### Page 6
 
@@ -77,7 +77,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p5 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 267 in 130 lines: WAAD-BECX Systems LtD · CTJ · TEST SETUP · PROCEDURE · M625B POWER · SUPPLY · 12) ~Set the · metering switch t0 · +25 and set the · DMM to · CURRENT · range.
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p6 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p6%20(traced).json) (the CAD file: `1978 - M625B - Power supply p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p6 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p6%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p6 (traced).dxf`).
 
 ### Page 7
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p6 (traced).
 - **Outlines:** line 56 rings, 766 straight (3,382 mm) / 109 curved (161 mm); text 1,098 rings, 8,226 straight (9,102 mm) / 2,459 curved (3,876 mm)
 - **Words (OCR):** 178 in 112 lines: WAAD-EECX Systems LtD_ · TEST SETUP · PROCEDURE · M625B · POWER · SUPPLY · ~Slowly apply ac · input with · variac. When · the · voltage · reaches
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p7 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p7%20(traced).json) (the CAD file: `1978 - M625B - Power supply p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p7 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p7%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p7 (traced).dxf`).
 
 ### Page 8
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p7 (traced).
 - **Dots (junctions):** 2
 - **Words (OCR):** 134 in 98 lines: CTJ · WAFC-SECX Systems LTD_ · TEST · & SETUP PROCEDURE · M6258_POWER SUPPLY · Emitter · 35 eil Base 25 · Collector 29*3057 · Aje · 01 · 01 · +L0.0
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p8 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p8%20(traced).json) (the CAD file: `1978 - M625B - Power supply p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p8 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p8%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p8 (traced).dxf`).
 
 ### Page 9
 
@@ -106,7 +106,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p8 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 109 in 98 lines: WAAC-BECX Systems LtD_ · PARTS LiST · M625B POWER · SUPPLY · PART DESCRIPTION · MFG PART · NUMBER · MFG · C1 · Capacitor 0.033 · uF/630 · Philips
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p9 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p9%20(traced).json) (the CAD file: `1978 - M625B - Power supply p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p9 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p9%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p9 (traced).
 - **Words (OCR):** 72 in 56 lines: ORAW · 72| · PARTS LIST · M6258 POWER · SUPPLY · PART DESCRIPTION · MFG · MFG PART · NUMBER · SW1 · Circuit Breaker · Airpax
 - **Title block:** (32, 46)–(195, 301) mm: T1 · Power Transformer · WBS · Regulator PCB slooiom · 2-27 · 05-Jh · 2,0 · 2.0 · 35-27 · WBS recommends · the use · ofreplacement parts · manufacturers for · continued optimum equipment performance .
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p10 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p10%20(traced).json) (the CAD file: `1978 - M625B - Power supply p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p10 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p10%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p10 (traced).dxf`).
 
 ### Page 11
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p10 (traced)
 - **Words (OCR):** 363 in 177 lines: WAAD-BECX Systems LTD: · CIRcUIT DESCRIPLION · 1-117 · REGULATOR BOARD · The 1-117 Regulator is · printed circuit board unit. It is · used in · of WBS Power · Supp lies and contains the · majority of the · number · active
 - **Title block:** (20, 311)–(148, 424) mm: WAAD-BECX Systems LTD: · 1-117 · The 1-117 Regulator is · of WBS Power · number · active · circuitry of these units esn
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p11 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p11%20(traced).json) (the CAD file: `1978 - M625B - Power supply p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p11 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p11%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p11 (traced).dxf`).
 
 ### Page 12
 
@@ -137,7 +137,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p11 (traced)
 - **Outlines:** line 18 rings, 623 straight (2,818 mm) / 77 curved (112 mm); text 496 rings, 3,845 straight (4,221 mm) / 1,096 curved (1,707 mm)
 - **Words (OCR):** 208 in 144 lines: WAAD-BECX SystEMs LtD_ · CIRcUIT DESCRIPTION · 4-417 REGULATOR · BOARD · Overvoltage protection provided by · crowbar · SCR 09 The · sensing · is · networks · consisting of · 07
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p12 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p12%20(traced).json) (the CAD file: `1978 - M625B - Power supply p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p12 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p12%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p12 (traced).dxf`).
 
 ### Page 13
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p12 (traced)
 - **Outlines:** line 151 rings, 1,422 straight (4,050 mm) / 250 curved (380 mm); text 662 rings, 5,387 straight (6,189 mm) / 1,563 curved (2,500 mm)
 - **Words (OCR):** 148 in 138 lines: WAAD-BECX Systems LtD; · PARTS LIST · 1-117 REGULATOR BOARD · PART DESCRIPIION · MFG · MFG PART · NUMBER · C1 · Capacitor · 2200 · pF · Aselco
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p13 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p13%20(traced).json) (the CAD file: `1978 - M625B - Power supply p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p13 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p13%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p13 (traced).dxf`).
 
 ### Page 14
 
@@ -155,7 +155,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p13 (traced)
 - **Outlines:** line 97 rings, 1,175 straight (3,628 mm) / 187 curved (281 mm); text 757 rings, 6,108 straight (6,921 mm) / 1,790 curved (2,830 mm)
 - **Words (OCR):** 171 in 149 lines: WAAD-BECX SYSTEMs LTD; · PARTS LIST · 1-117 · REGULATOR BQARD · ~AAO · 07m · PART DESCRIPTION · MFG · MFG · PART NUMBER · NS · 701.J606 7
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p14 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p14%20(traced).json) (the CAD file: `1978 - M625B - Power supply p14 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p14 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p14%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p14 (traced).dxf`).
 
 ### Page 15
 
@@ -165,7 +165,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p14 (traced)
 - **Words (OCR):** 79 in 60 lines: WAAD-BECX SysTems LTD. · PARTS LiST · 1-117 REGULATOR BOARD · PART DESCRIPTION · MFG · MFG PART · NUMBER · R36 · Resistor 1/4w 5% · delete · R37 · delete
 - **Title block:** (22, 70)–(151, 421) mm: WAAD-BECX SysTems LTD. · PART DESCRIPTION · R36 · Resistor 1/4w 5% · R37 · R38 · R39 · Trim pot · RLo · Resistor 1/4w 5% · R42 · 1K · R43 · R4b · R45 · 1k · R46 · 10K · R47 · 1K · R48 · 10K · R4g · 4K
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p15 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p15%20(traced).json) (the CAD file: `1978 - M625B - Power supply p15 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p15 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p15%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p15 (traced).dxf`).
 
 ### Page 16
 
@@ -177,7 +177,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p15 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 82 in 72 lines: HSv AC · POWER · SUPPLX · sol6o4z MOUNIING · IBAX · 08 016 · 07 · 20 · 30 · +25v · 06 · 014
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p16 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p16%20(traced).json) (the CAD file: `1978 - M625B - Power supply p16 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p16 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p16%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p16 (traced).dxf`).
 
 ### Page 17
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p16 (traced)
 - **Closed boxes:** 2; named: RED
 - **Words (OCR):** 69 in 56 lines: Sw | · CRI · ciecuit BREAKER} (80 · PBgo · 21 · FI · BR · RED · 7a · 62 · ~Haoov · C3
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p17 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p17%20(traced).json) (the CAD file: `1978 - M625B - Power supply p17 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p17 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p17%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p17 (traced).dxf`).
 
 ### Page 18
 
@@ -200,7 +200,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p17 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 48 in 48 lines: CRZ · IN4003 · R4 · C2 · 218772 · R7 · 05 · 0I · 2ow · 2N3772 · 7A · 2k2
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p18 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p18%20(traced).json) (the CAD file: `1978 - M625B - Power supply p18 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p18 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p18%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p18 (traced).dxf`).
 
 ### Page 19
 
@@ -212,7 +212,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p18 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 33 in 31 lines: Pe · 12 · CR8 · TMR 751 · DS1 · 56 · 2k2 · 3W · Cr9 · MR 751 · Sw28 · SWZA Ce
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p19 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p19%20(traced).json) (the CAD file: `1978 - M625B - Power supply p19 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p19 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p19%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p19 (traced).dxf`).
 
 ### Page 20
 
@@ -223,7 +223,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p19 (traced)
 - **Closed boxes:** 5; named: 36 13 910; tols
 - **Words (OCR):** 28 in 26 lines: Pe · CR& · MR 751 · #COM · 36 · 13 · Cr9 · MR751 · 910 · Sw28 · CR7 · IN++B
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p20 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p20%20(traced).json) (the CAD file: `1978 - M625B - Power supply p20 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p20 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p20%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p20 (traced).dxf`).
 
 ### Page 21
 
@@ -233,7 +233,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p20 (traced)
 - **Circles and arcs:** 4 circles, 0 arcs; largest r 4.4 @ (307.8, 156.6), r 3.0 @ (308.1, 156.2), r 2.3 @ (231.1, 215.5), r 2.1 @ (308.4, 155.9)
 - **Words (OCR):** 6 in 6 lines: C1 · Rib · R14 · 1-M17 PcB · Pz · R4
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p21 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p21%20(traced).json) (the CAD file: `1978 - M625B - Power supply p21 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p21 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p21%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p21 (traced).dxf`).
 
 ### Page 22
 
@@ -246,7 +246,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p21 (traced)
 - **Words (OCR):** 13 in 12 lines: R2 · Rs · Jz (BLACK) · (RED) · Meo · 4862 · JSsu DATE · {REvISKON · WBS · 3w2 · 7m6758 · 625-067U0
 - **Title block:** (222, 26)–(274, 59) mm: JSsu DATE · WBS
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p22 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p22%20(traced).json) (the CAD file: `1978 - M625B - Power supply p22 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p22 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p22%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p22 (traced).dxf`).
 
 ### Page 23
 
@@ -258,7 +258,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p22 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 61 in 56 lines: Series · CUrRENT · REG BASE · Limit · +25v · 21 · 20 · Rg · +40V 22 · 75 · rio · MJE
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p23 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p23%20(traced).json) (the CAD file: `1978 - M625B - Power supply p23 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p23 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p23%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p23 (traced).dxf`).
 
 ### Page 24
 
@@ -269,7 +269,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p23 (traced)
 - **Closed boxes:** 2
 - **Words (OCR):** 67 in 64 lines: C3 · Rib · Ri7 · 470k · 27k · 1/s5 · Co · Rib Rzo · DIFADJ- · Sk 2k7 · 100/40 · Ris
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p24 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p24%20(traced).json) (the CAD file: `1978 - M625B - Power supply p24 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p24 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p24%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p24 (traced).dxf`).
 
 ### Page 25
 
@@ -278,7 +278,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p24 (traced)
 - **Outlines:** line 73 rings, 2,560 straight (5,750 mm) / 314 curved (469 mm); text 115 rings, 1,065 straight (1,338 mm) / 318 curved (519 mm)
 - **Words (OCR):** 31 in 29 lines: 15 · 13 · 14 · R27 · R32 ~ · iOk · 24k · R28 · R38 · R3o · R33 · 63
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p25 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p25%20(traced).json) (the CAD file: `1978 - M625B - Power supply p25 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p25 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p25%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p25 (traced).dxf`).
 
 ### Page 26
 
@@ -290,7 +290,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p25 (traced)
 - **Words (OCR):** 70 in 55 lines: NOTES · ALL RESISTORs ARE IN V4 W · 5e · AND ALL CAPACiTors · UNLESS · SPECIFIED OTHERWISE · LAST · comPonenT DESIGNATIONS · C12 · CR8, Q9 , Rs0 22 · R47 · Ci2
 - **Title block:** (126, 13)–(329, 114) mm: Scr (ircuit ADDED · REVISION · ISSUE |DATE · WBS WARD-BECK · SYSTEME · DRN: MRW 6/78 · 1-117 · ENG_ MRW · REGULATOR BOARD · CKD: Rm · SCHEMATIC · APP · ISSUE · SCALE · LB 1-117 - 02 001
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p26 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p26%20(traced).json) (the CAD file: `1978 - M625B - Power supply p26 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p26 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p26%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p26 (traced).dxf`).
 
 ### Page 27
 
@@ -302,7 +302,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p26 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 65 in 57 lines: 04 · 01 · MUE 2901 · Ria ADJ · Rie DIF ADJ · s0o · Sk · R2s22 · RIs %4 · RAIIK · Rwolu · -R24 J59
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p27 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p27%20(traced).json) (the CAD file: `1978 - M625B - Power supply p27 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p27 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p27%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p27 (traced).dxf`).
 
 ### Page 28
 
@@ -314,7 +314,7 @@ Every curve, box, word and wire group: [1978 - M625B - Power supply p27 (traced)
 - **Words (OCR):** 62 in 55 lines: MJE 2301 · Rie DIf ADJ · 5k · Rwolu · 0 +015 · 0is · -R7 1 · Re * · 520037 · C6 · LM3OS · 2NSA5
 - **Title block:** (190, 3)–(329, 81) mm: Hal · 4eo3 · Ion CR 8 Aooed · 6/78 · RE-DRAWN · ISSUE DATE · REVISION · APR · WBS WARDEECKSY3TEMB · DRN. Mrw 0/78 · IZ · ENG_ Mrw · REGULATOR BOARD · CKD_ · COMPONENTLAYQUT · APP · SCALE · F17-06*001
 
-Every curve, box, word and wire group: [1978 - M625B - Power supply p28 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p28%20(traced).json) (the CAD file: `1978 - M625B - Power supply p28 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625B - Power supply p28 (traced).json](../MANUALS/1978%20-%20M625B%20-%20Power%20supply%20p28%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p28 (traced).dxf`).
 
 ## Full text
 
