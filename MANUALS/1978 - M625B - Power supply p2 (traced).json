@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/POWER/M625B/MANUALS/1978 - M625B - Power supply.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/6cad0d85bdeacbb2-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 22.7, 294.1, 425.5],
+ "outlines": {
+  "line": {"rings": 84, "straight": {"n": 1444, "mm": 3309.0}, "curved": {"n": 193, "mm": 283.9}},
+  "text": {"rings": 138, "straight": {"n": 1282, "mm": 1800.1}, "curved": {"n": 294, "mm": 493.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [109.9, 411.1, 273.5, 420.7], "text": "WAAD-EECX sYatema LTD."},
+   {"mm": [42.1, 403.3, 270.3, 416.3], "text": "WES 341 F=CGFES= AVENLE SCAFECFCLCC SNTAFIC MtF2x:"},
+   {"mm": [129.3, 400.3, 161.1, 405.6], "text": "Ce5-25253"},
+   {"mm": [129.8, 251.7, 188.7, 267.8], "text": "M625B"},
+   {"mm": [128.5, 245.0, 191.5, 253.7], "text": "POWER SUPPLY"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–294 mm across, 23–426 mm up",
+  "- **Outlines:** line 84 rings, 1,444 straight (3,309 mm) / 193 curved (284 mm); text 138 rings, 1,282 straight (1,800 mm) / 294 curved (493 mm)",
+  "- **Words (OCR):** 11 in 5 lines: WAAD-EECX sYatema LTD. · WES 341 F=CGFES= AVENLE SCAFECFCLCC SNTAFIC MtF2x: · Ce5-25253 · M625B · POWER SUPPLY"
+ ]
+}

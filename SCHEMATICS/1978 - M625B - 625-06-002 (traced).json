@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/POWER/M625B/SCHEMATICS/1978 - M625B - 625-06-002.jpg",
+ "version": 1,
+ "trace": "_traces/95e6a33fdbe1f5c7.svg",
+ "sheet": {
+  "number": "625-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 2.2, 329.4, 426.5],
+ "outlines": {
+  "line": {"rings": 6291, "straight": {"n": 41267, "mm": 36923.4}, "curved": {"n": 9864, "mm": 9016.9}},
+  "text": {"rings": 32, "straight": {"n": 227, "mm": 208.5}, "curved": {"n": 50, "mm": 59.0}}
+ },
+ "circles": [
+  {"c": [307.8, 156.6], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [231.1, 215.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [250.2, 400.7, 256.7, 405.0], "text": "c1"},
+   {"mm": [185.9, 398.6, 195.6, 403.3], "text": "R1b"},
+   {"mm": [267.5, 388.4, 273.3, 392.7], "text": "P1"},
+   {"mm": [20.3, 365.7, 30.0, 370.5], "text": "R14"},
+   {"mm": [8.4, 332.7, 32.2, 338.0], "text": "I-I17 PCb"},
+   {"mm": [25.0, 299.2, 32.6, 304.0], "text": "P2"},
+   {"mm": [10.6, 205.3, 18.8, 209.6], "text": "02"}
+  ]
+ },
+ "dots": [{"c": [268.0, 80.2], "r": 0.5, "lines": 0}, {"c": [304.1, 11.2], "r": 0.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 625-06-002, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 2–426 mm up",
+  "- **Outlines:** line 6,291 rings, 41,267 straight (36,923 mm) / 9,864 curved (9,017 mm); text 32 rings, 227 straight (208 mm) / 50 curved (59.0 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 4.4 @ (307.8, 156.6), r 2.3 @ (231.1, 215.4)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 7 in 7 lines: c1 · R1b · P1 · R14 · I-I17 PCb · P2 · 02"
+ ]
+}

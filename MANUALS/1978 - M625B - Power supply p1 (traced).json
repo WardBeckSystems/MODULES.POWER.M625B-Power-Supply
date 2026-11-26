@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/POWER/M625B/MANUALS/1978 - M625B - Power supply.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/6cad0d85bdeacbb2-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1433],
+  "mm": [431.8, 309.4],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, 0.0, 431.8, 293.8],
+ "outlines": {
+  "line": {"rings": 750, "straight": {"n": 8987, "mm": 24129.0}, "curved": {"n": 1659, "mm": 2789.9}},
+  "text": {"rings": 20, "straight": {"n": 136, "mm": 126.1}, "curved": {"n": 59, "mm": 82.7}}
+ },
+ "circles": [
+  {"c": [217.8, 112.7], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [90.8, 115.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [74.8, 39.6], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [365.8, 159.8, 368.1, 161.8], "w": 2.3, "h": 2.1, "from": "ring"},
+  {"mm": [355.2, 116.8, 357.3, 119.2], "w": 2.2, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [11.7, 242.2, 19.2, 246.1], "text": "PCE"},
+   {"mm": [344.1, 96.5, 352.8, 99.9], "text": "Sw"},
+   {"mm": [311.1, 52.2, 331.2, 56.1], "text": "J2 (BLACK)"},
+   {"mm": [304.2, 44.3, 315.4, 48.1], "text": "(RED)"},
+   {"mm": [262.5, 22.0, 271.8, 25.4], "text": "Sw2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 309 mm, 2000 × 1433 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–432 mm across, 0–294 mm up",
+  "- **Outlines:** line 750 rings, 8,987 straight (24,129 mm) / 1,659 curved (2,790 mm); text 20 rings, 136 straight (126 mm) / 59 curved (82.7 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 3.4 @ (217.8, 112.7), r 1.7 @ (90.8, 115.1), r 1.2 @ (74.8, 39.6)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 5 in 5 lines: PCE · Sw · J2 (BLACK) · (RED) · Sw2"
+ ]
+}

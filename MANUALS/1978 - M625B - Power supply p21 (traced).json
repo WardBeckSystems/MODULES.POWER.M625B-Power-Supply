@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/POWER/M625B/MANUALS/1978 - M625B - Power supply.pdf",
+ "page": 21,
+ "version": 1,
+ "trace": "_traces/6cad0d85bdeacbb2-p21.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "21", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, 2.6, 329.4, 426.4],
+ "outlines": {
+  "line": {"rings": 2287, "straight": {"n": 23100, "mm": 32063.4}, "curved": {"n": 5261, "mm": 6081.4}},
+  "text": {"rings": 28, "straight": {"n": 149, "mm": 159.0}, "curved": {"n": 47, "mm": 70.6}}
+ },
+ "circles": [
+  {"c": [307.8, 156.6], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [308.1, 156.2], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [231.1, 215.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [308.4, 155.9], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [250.2, 400.7, 256.7, 404.5], "text": "C1"},
+   {"mm": [186.5, 398.6, 195.8, 402.9], "text": "Rib"},
+   {"mm": [20.7, 365.7, 30.0, 370.1], "text": "R14"},
+   {"mm": [8.4, 332.7, 32.2, 338.0], "text": "1-M17 PcB"},
+   {"mm": [25.7, 299.2, 32.6, 303.6], "text": "Pz"},
+   {"mm": [25.0, 164.3, 32.0, 168.1], "text": "R4"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 3–426 mm up",
+  "- **Outlines:** line 2,287 rings, 23,100 straight (32,063 mm) / 5,261 curved (6,081 mm); text 28 rings, 149 straight (159 mm) / 47 curved (70.6 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 4.4 @ (307.8, 156.6), r 3.0 @ (308.1, 156.2), r 2.3 @ (231.1, 215.5), r 2.1 @ (308.4, 155.9)",
+  "- **Words (OCR):** 6 in 6 lines: C1 · Rib · R14 · 1-M17 PcB · Pz · R4"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/POWER/M625B/MANUALS/1978 - M625B - Power supply.pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/6cad0d85bdeacbb2-p22.svg",
+ "sheet": {
+  "number": "615-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 326.7, 418.4],
+ "outlines": {
+  "line": {"rings": 13682, "straight": {"n": 78305, "mm": 58159.1}, "curved": {"n": 22745, "mm": 20794.9}},
+  "text": {"rings": 42, "straight": {"n": 325, "mm": 330.1}, "curved": {"n": 121, "mm": 128.4}},
+  "tb": {"rings": 80, "straight": {"n": 496, "mm": 370.1}, "curved": {"n": 147, "mm": 135.5}}
+ },
+ "circles": [
+  {"c": [28.7, 156.8], "r": 4.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [29.4, 156.2], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [257.1, 46.0, 266.6, 50.5], "w": 9.5, "h": 4.5, "from": "ring", "words": ["DATE"], "in_title_block": true},
+  {"mm": [247.2, 46.0, 256.8, 50.3], "w": 9.6, "h": 4.3, "from": "ring", "words": ["JSsu"], "in_title_block": true},
+  {"mm": [222.6, 21.6, 246.8, 26.4], "w": 24.2, "h": 4.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [180.1, 296.0, 188.3, 300.3], "text": "R2"},
+   {"mm": [232.3, 222.2, 239.9, 226.5], "text": "Rs"},
+   {"mm": [158.5, 74.7, 186.5, 80.0], "text": "Jz (BLACK)"},
+   {"mm": [148.8, 63.5, 163.9, 68.8], "text": "(RED)"},
+   {"mm": [268.8, 50.7, 282.0, 56.0], "text": "Meo"},
+   {"mm": [284.1, 51.6, 301.4, 56.4], "text": "4862"},
+   {"mm": [247.0, 46.2, 267.5, 50.0], "text": "JSsu DATE"},
+   {"mm": [283.7, 46.6, 299.9, 51.0], "text": "{REvISKON"},
+   {"mm": [228.2, 35.0, 253.0, 41.5], "text": "WBS"},
+   {"mm": [92.6, 32.6, 104.1, 36.4], "text": "3w2"},
+   {"mm": [278.1, 24.2, 294.7, 30.7], "text": "7m6758"},
+   {"mm": [269.0, 3.5, 297.7, 8.3], "text": "625-067U0"}
+  ]
+ },
+ "title_block": {"mm": [221.7, 26.4, 274.0, 58.6], "from": "title-block words (training set)", "text": ["JSsu DATE", "WBS"]},
+ "dots": [{"c": [15.9, 283.2], "r": 0.6, "lines": 0}, {"c": [7.1, 16.4], "r": 0.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 615-06-002, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–327 mm across, 0–418 mm up",
+  "- **Outlines:** line 13,682 rings, 78,305 straight (58,159 mm) / 22,745 curved (20,795 mm); text 42 rings, 325 straight (330 mm) / 121 curved (128 mm); tb 80 rings, 496 straight (370 mm) / 147 curved (136 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 4.3 @ (28.7, 156.8), r 2.0 @ (29.4, 156.2)",
+  "- **Closed boxes:** 3 (2 in the title block)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 13 in 12 lines: R2 · Rs · Jz (BLACK) · (RED) · Meo · 4862 · JSsu DATE · {REvISKON · WBS · 3w2 · 7m6758 · 625-067U0",
+  "- **Title block:** (222, 26)–(274, 59) mm: JSsu DATE · WBS"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/POWER/M625B/SCHEMATICS/1978 - M625B - 625-06-002 - LSMPONM EYOU' ICALE SUE.jpg",
+ "version": 1,
+ "trace": "_traces/e12e7b5bce499684.svg",
+ "sheet": {
+  "number": "625-06-002",
+  "title": "Fowerlsupply Lsmponn Eyoui Sue",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 326.9, 420.8],
+ "outlines": {
+  "line": {"rings": 18021, "straight": {"n": 100521, "mm": 67327.5}, "curved": {"n": 26259, "mm": 23275.5}},
+  "text": {"rings": 40, "straight": {"n": 357, "mm": 361.4}, "curved": {"n": 96, "mm": 103.7}},
+  "tb": {"rings": 91, "straight": {"n": 501, "mm": 379.6}, "curved": {"n": 134, "mm": 126.4}}
+ },
+ "circles": [
+  {"c": [28.7, 156.8], "r": 4.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [29.4, 156.2], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [279.8, 53.5], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [262.5, 281.9], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [257.4, 46.2, 266.9, 50.5], "w": 9.5, "h": 4.3, "from": "ring"},
+  {"mm": [222.6, 21.5, 246.8, 26.4], "w": 24.2, "h": 4.9, "from": "ring", "words": ["ENG:"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [156.7, 324.7, 163.7, 328.6], "text": "Rs"},
+   {"mm": [180.1, 296.6, 187.6, 300.5], "text": "R2"},
+   {"mm": [232.3, 222.2, 239.9, 226.5], "text": "Rs"},
+   {"mm": [158.9, 74.7, 185.9, 80.0], "text": "Jz (BLACK)"},
+   {"mm": [148.8, 63.5, 163.9, 68.8], "text": "(RED)"},
+   {"mm": [228.2, 35.0, 253.0, 41.5], "text": "WBS"},
+   {"mm": [92.6, 32.6, 104.1, 36.9], "text": "Sw2"},
+   {"mm": [277.4, 24.2, 294.7, 30.7], "text": "M6258"},
+   {"mm": [222.6, 21.8, 230.1, 25.6], "text": "ENG:"},
+   {"mm": [270.7, 19.2, 303.6, 24.5], "text": "FOWERESUPAY"},
+   {"mm": [230.8, 7.3, 240.1, 11.2], "text": "ICALE"},
+   {"mm": [269.0, 4.1, 296.4, 8.4], "text": "625-06-Uo"}
+  ]
+ },
+ "title_block": {"mm": [216.1, 13.2, 259.7, 50.2], "from": "title-block words (training set)", "text": ["WBS", "ENG:"]},
+ "dots": [
+  {"c": [289.0, 241.7], "r": 0.8, "lines": 0},
+  {"c": [72.8, 236.4], "r": 0.6, "lines": 0},
+  {"c": [315.2, 131.4], "r": 0.6, "lines": 0},
+  {"c": [40.6, 8.0], "r": 0.6, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout 625-06-002, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–327 mm across, 0–421 mm up",
+  "- **Outlines:** line 18,021 rings, 100,521 straight (67,328 mm) / 26,259 curved (23,276 mm); text 40 rings, 357 straight (361 mm) / 96 curved (104 mm); tb 91 rings, 501 straight (380 mm) / 134 curved (126 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 4.3 @ (28.7, 156.8), r 2.0 @ (29.4, 156.2), r 1.7 @ (279.8, 53.5), r 0.7 @ (262.5, 281.9)",
+  "- **Closed boxes:** 2 (1 in the title block)",
+  "- **Dots (junctions):** 4",
+  "- **Words (OCR):** 12 in 12 lines: Rs · R2 · Rs · Jz (BLACK) · (RED) · WBS · Sw2 · M6258 · ENG: · FOWERESUPAY · ICALE · 625-06-Uo",
+  "- **Title block:** (216, 13)–(260, 50) mm: WBS · ENG:"
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "drawing": "Modules/POWER/M625B/SCHEMATICS/1978 - M625B - 117-02-001.jpg",
+ "version": 1,
+ "trace": "_traces/3b03474ffffce595.svg",
+ "sheet": {
+  "number": "117-02-001",
+  "title": "",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 329.3, 431.8],
+ "outlines": {
+  "line": {"rings": 77, "straight": {"n": 2644, "mm": 5704.4}, "curved": {"n": 325, "mm": 498.7}},
+  "text": {"rings": 123, "straight": {"n": 1136, "mm": 1374.6}, "curved": {"n": 348, "mm": 567.1}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1620, "straight": {"n": 1771, "mm": 3273.4}, "curved": {"n": 3, "mm": 2.6}},
+   "text": {"paths": 705, "straight": {"n": 1053, "mm": 961.5}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 20,
+  "orientation": {"horizontal": {"n": 686, "mm": 1622.6}, "vertical": {"n": 670, "mm": 1273.0}, "diagonal": {"n": 1468, "mm": 1339.3}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [{"c": [4.4, 424.7], "r": 1.0, "kind": "arc", "span": 145, "from": ["centre line"], "start": 302}],
+ "boxes": [{"mm": [279.8, 205.3, 282.0, 210.5], "w": 2.2, "h": 5.2, "from": "ring"}],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [103.6, 352.3, 112.3, 359.3], "text": "15"},
+   {"mm": [159.1, 351.9, 167.3, 358.9], "text": "13"},
+   {"mm": [269.2, 349.8, 277.9, 357.9], "text": "14"},
+   {"mm": [36.1, 278.1, 49.7, 286.2], "text": "R27"},
+   {"mm": [202.9, 276.4, 215.9, 285.0], "text": "R32 ~"},
+   {"mm": [36.7, 271.4, 50.3, 279.1], "text": "iOk"},
+   {"mm": [199.7, 269.4, 215.0, 278.3], "text": "Z4k"},
+   {"mm": [32.4, 227.8, 47.5, 235.9], "text": "R28"},
+   {"mm": [91.1, 227.1, 104.1, 235.3], "text": "R38"},
+   {"mm": [146.4, 226.7, 158.7, 233.7], "text": "R3o"},
+   {"mm": [200.4, 225.6, 214.0, 233.8], "text": "R33"},
+   {"mm": [257.6, 225.6, 269.4, 232.6], "text": "R34"},
+   {"mm": [0.0, 221.3, 6.9, 228.3], "text": "63"},
+   {"mm": [34.1, 220.2, 72.3, 228.4], "text": "500 DIF"},
+   {"mm": [89.8, 218.3, 105.1, 228.1], "text": "9ik_"},
+   {"mm": [145.7, 219.1, 159.3, 226.1], "text": "9ik"},
+   {"mm": [201.4, 218.1, 212.2, 226.2], "text": "5k"},
+   {"mm": [259.1, 217.6, 269.2, 225.8], "text": "5k_"},
+   {"mm": [58.3, 213.3, 73.0, 220.3], "text": "CAL"},
+   {"mm": [273.5, 196.9, 286.5, 204.6], "text": "CAL"},
+   {"mm": [34.1, 181.8, 48.6, 189.9], "text": "R29"},
+   {"mm": [89.2, 179.6, 102.8, 187.8], "text": "R3g"},
+   {"mm": [145.7, 179.2, 158.7, 187.4], "text": "R3i"},
+   {"mm": [255.2, 177.5, 269.2, 186.1], "text": "R3s -"},
+   {"mm": [32.8, 175.3, 46.9, 182.3], "text": "iok"},
+   {"mm": [86.8, 172.3, 103.0, 180.4], "text": "zok"},
+   {"mm": [118.7, 172.3, 132.1, 179.7], "text": "CAL"},
+   {"mm": [173.2, 171.6, 185.5, 179.3], "text": "CAL"},
+   {"mm": [254.1, 170.6, 268.1, 178.7], "text": "24k"},
+   {"mm": [210.5, 79.5, 220.2, 86.9], "text": "16"}
+  ]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 20,
+  "wire_runs": 91,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 364.7, "runs": 10, "ends": 4, "bbox": [0.4, 287.6, 328.6, 310.0], "labels": ["R27", "iOk", "R32 ~", "Z4k"]},
+   {"mm": 357.2, "runs": 13, "ends": 5, "bbox": [54.4, 128.5, 328.6, 169.3], "labels": ["CAL", "R3i", "R3s -", "24k"]},
+   {"mm": 148.8, "runs": 5, "ends": 3, "bbox": [215.7, 90.7, 226.7, 226.9], "labels": ["R33", "5k", "16"]},
+   {"mm": 138.9, "runs": 7, "ends": 3, "bbox": [271.8, 227.1, 281.5, 345.4], "labels": ["14", "R34", "5k_"]},
+   {"mm": 127.4, "runs": 3, "ends": 2, "bbox": [57.0, 229.1, 68.9, 347.4], "labels": ["R28", "500", "DIF", "CAL"]},
+   {"mm": 110.1, "runs": 2, "ends": 2, "bbox": [107.3, 237.3, 108.6, 347.8], "labels": ["15", "R38", "9ik_"]},
+   {"mm": 109.3, "runs": 4, "ends": 2, "bbox": [162.6, 237.1, 163.7, 346.7], "labels": ["13", "R3o"]},
+   {"mm": 89.4, "runs": 3, "ends": 2, "bbox": [0.4, 131.1, 51.8, 170.6], "labels": ["R29", "iok"]},
+   {"mm": 43.2, "runs": 6, "ends": 4, "bbox": [101.9, 160.2, 117.0, 181.1], "labels": ["CAL", "R3g", "zok"]},
+   {"mm": 32.8, "runs": 4, "ends": 3, "bbox": [306.8, 219.8, 328.8, 226.5], "labels": []},
+   {"mm": 32.4, "runs": 1, "ends": 2, "bbox": [217.2, 235.8, 218.1, 268.1], "labels": ["R32 ~", "Z4k", "R33", "5k"]},
+   {"mm": 31.7, "runs": 2, "ends": 2, "bbox": [52.0, 237.5, 52.9, 269.7], "labels": ["R27", "iOk", "R28", "500"]},
+   {"mm": 27.9, "runs": 1, "ends": 2, "bbox": [51.6, 190.6, 52.0, 218.5], "labels": ["R28", "500", "DIF", "CAL", "R29", "iok"]},
+   {"mm": 27.0, "runs": 1, "ends": 2, "bbox": [106.9, 190.2, 107.5, 217.2], "labels": ["R38", "9ik_", "R3g", "zok"]},
+   {"mm": 25.7, "runs": 1, "ends": 2, "bbox": [161.9, 191.7, 162.4, 217.4], "labels": ["R3o", "9ik", "R3i"]},
+   {"mm": 24.0, "runs": 1, "ends": 2, "bbox": [271.2, 188.3, 271.6, 212.2], "labels": ["5k_", "CAL", "R3s -", "24k"]},
+   {"mm": 14.5, "runs": 1, "ends": 2, "bbox": [171.4, 165.2, 171.6, 179.6], "labels": ["CAL"]},
+   {"mm": 6.9, "runs": 2, "ends": 2, "bbox": [163.7, 180.3, 171.0, 180.3], "labels": ["R3i", "CAL"]},
+   {"mm": 6.0, "runs": 1, "ends": 2, "bbox": [103.8, 157.2, 109.9, 157.2], "labels": []},
+   {"mm": 6.0, "runs": 1, "ends": 2, "bbox": [308.5, 216.8, 314.6, 217.0], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 117-02-001, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 0–432 mm up",
+  "- **Outlines:** line 77 rings, 2,644 straight (5,704 mm) / 325 curved (499 mm); text 123 rings, 1,136 straight (1,375 mm) / 348 curved (567 mm)",
+  "- **Centre lines:** 2,325 paths (20 closed); straight 4,235 mm, curved 2.6 mm; horizontal 1,623 mm, vertical 1,273 mm, diagonal 1,339 mm",
+  "- **Circles and arcs:** 0 circles, 1 arcs",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 31 in 30 lines: 15 · 13 · 14 · R27 · R32 ~ · iOk · Z4k · R28 · R38 · R3o · R33 · R34",
+  "- **Wiring (first pass):** 20 connected wire groups from 91 runs; labelled ends: 365 mm → R27, iOk, R32 ~, Z4k; 357 mm → CAL, R3i, R3s -, 24k; 149 mm → R33, 5k, 16; 139 mm → 14, R34, 5k_; 127 mm → R28, 500, DIF, CAL"
+ ]
+}
