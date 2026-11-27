@@ -13,6 +13,47 @@ Ward-Beck Systems M625B, 1978|11. Wiki page: [M625B on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 57 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [27 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M625B - P002 - 1-1.jpg](MANUALS/1978%20-%20M625B%20-%20P002%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Dc output** | +25 volts amperes load currents from |
+| **Line regulation** | 1% for Line variations from 105 125 from 210 250 volts ac respectively |
+| **Load regulation** | for load variations from zero full load. |
+| **Ripple and noise** | Less than 500 microvolts RMS for all Line and load conditions specified above |
+| **Internal impedance** | Less than ohm from dc to 20 kHz |
+| **Stability** | 0.1 volts measured over an period, after minutes warmup - hour |
+| **Protection** | Overcurrent and short circuit foldback_ Overvoltage crowbar. |
+| **Ac input** | 115/230 volts ac nominal 50/60 Hz. Maximum input power: 525 VA |
+| **Ambient temperature** | Dimensions: 40 degrees Celsius at rated output_ 8.45&quot; wide 5.1&quot; high 13.7&quot; deep (214.6 mm 130 Mm 348 mm) |
+| **Accessories** | MF6A mounting frame (accommodates two M6258 power supplies) |
+
+## Circuit description
+
+From [1978 - M625B - P003 - 2-1.jpg](MANUALS/1978%20-%20M625B%20-%20P003%20-%202-1.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M625B +25 volt dc power Supply which delivering currents uP amperes capable The primary winding the Power transformer operation from 115/230 volt ac, 50/60 Hz Iine_ designed for The bridge rectifier CRI and filter capacitors C3 and C4 follow the secondary transformer winding. The unregulated output approximately +40 volts is applied the series regulator transistors 04 Together with the primary regulator circuit the 1-117 printed circuit card, transistors provide the regulated dc outputs as they appear connector P2 The LED pilot light indicates the presence connected across the full the output voltages volt output and seven-position meter selector switch (Sw2), together with meter jacks and J2, are provided on the front panel allow metering the output functions the power supply With the aid digital multimeter_ output voltages and currents the power supply can be checked the following manner:
+
+**FUNCTION**
+
+Switch POSITION DMM FUNCTION CONVERSION FACTOR Meter OFF Neg current Neg voltage Offset voltage Pos voltage Pos. current Meter OFF
+
+**(1) (2) ~25 OFFSET (5) +25 {6}**
+
+Current Current Voltage Current Current uAYA uAV None uA/V 10 UA/A to illustrate, when measuring positive voltage (switch position 5), reading +250 UA will indicate voltage +25 V. When measuring positive output current (switch position reading UA will current the 'OFFSET indicate position, the meter will read the differential voltage between the positive and the negative supply voltages differential voltage up +0.1 permissible
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

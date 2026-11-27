@@ -1,0 +1,31 @@
+{
+ "module": "M625B",
+ "source": {
+  "file": "MANUALS/1978 - M625B - P003 - 2-1.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M625B +25 volt dc power Supply which delivering currents uP amperes capable The primary winding the Power transformer operation from 115/230 volt ac, 50/60 Hz Iine_ designed for The bridge rectifier CRI and filter capacitors C3 and C4 follow the secondary transformer winding. The unregulated output approximately +40 volts is applied the series regulator transistors 04 Together with the primary regulator circuit the 1-117 printed circuit card, transistors provide the regulated dc outputs as they appear connector P2 The LED pilot light indicates the presence connected across the full the output voltages volt output and seven-position meter selector switch (Sw2), together with meter jacks and J2, are provided on the front panel allow metering the output functions the power supply With the aid digital multimeter_ output voltages and currents the power supply can be checked the following manner:"
+   ]
+  },
+  {
+   "heading": "FUNCTION",
+   "paragraphs": [
+    "Switch POSITION DMM FUNCTION CONVERSION FACTOR Meter OFF Neg current Neg voltage Offset voltage Pos voltage Pos. current Meter OFF"
+   ]
+  },
+  {
+   "heading": "(1) (2) ~25 OFFSET (5) +25 {6}",
+   "paragraphs": [
+    "Current Current Voltage Current Current uAYA uAV None uA/V 10 UA/A to illustrate, when measuring positive voltage (switch position 5), reading +250 UA will indicate voltage +25 V. When measuring positive output current (switch position reading UA will current the 'OFFSET indicate position, the meter will read the differential voltage between the positive and the negative supply voltages differential voltage up +0.1 permissible"
+   ]
+  }
+ ]
+}

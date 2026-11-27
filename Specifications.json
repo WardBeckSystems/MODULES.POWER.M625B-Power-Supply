@@ -1,0 +1,140 @@
+{
+ "module": "M625B",
+ "title": "M625B POWER_SUPPLY",
+ "source": {
+  "file": "MANUALS/1978 - M625B - P002 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Dc output",
+   "key": "dc_output",
+   "text": "+25 volts amperes load currents from",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Line regulation",
+   "key": "line_regulation",
+   "text": "1% for Line variations from 105 125 from 210 250 volts ac respectively",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 250,
+     "unit": "volts ac"
+    }
+   ]
+  },
+  {
+   "name": "Load regulation",
+   "key": "load_regulation",
+   "text": "for load variations from zero full load."
+  },
+  {
+   "name": "Ripple and noise",
+   "key": "ripple_and_noise",
+   "text": "Less than 500 microvolts RMS for all Line and load conditions specified above"
+  },
+  {
+   "name": "Internal impedance",
+   "key": "internal_impedance",
+   "text": "Less than ohm from dc to 20 kHz",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Stability",
+   "key": "stability",
+   "text": "0.1 volts measured over an period, after minutes warmup - hour",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Protection",
+   "key": "protection",
+   "text": "Overcurrent and short circuit foldback_ Overvoltage crowbar."
+  },
+  {
+   "name": "Ac input",
+   "key": "ac_input",
+   "text": "115/230 volts ac nominal 50/60 Hz. Maximum input power: 525 VA",
+   "quantities": [
+    {
+     "value": 230,
+     "unit": "volts ac"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 525,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "Dimensions: 40 degrees Celsius at rated output_ 8.45\" wide 5.1\" high 13.7\" deep (214.6 mm 130 Mm 348 mm)",
+   "quantities": [
+    {
+     "value": 40,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 8.45,
+     "unit": "\""
+    },
+    {
+     "value": 5.1,
+     "unit": "\""
+    },
+    {
+     "value": 13.7,
+     "unit": "\""
+    },
+    {
+     "value": 214.6,
+     "unit": "mm"
+    },
+    {
+     "value": 130,
+     "unit": "Mm"
+    },
+    {
+     "value": 348,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "MF6A mounting frame (accommodates two M6258 power supplies)",
+   "quantities": [
+    {
+     "value": 6,
+     "unit": "A"
+    }
+   ]
+  }
+ ]
+}
