@@ -1,4 +1,4 @@
-# M625B · Power
+# M625B Power Supply · Power
 
 Ward-Beck Systems M625B, 1978|11. Wiki page: [M625B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M625B.html)
 
@@ -8,10 +8,10 @@ Ward-Beck Systems M625B, 1978|11. Wiki page: [M625B on WBSps.ca](https://wardbec
 | [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 205 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 57 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 55 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -62,9 +62,7 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV19aLUhRdndFMVE/view?resourcekey=0-asSbESjpk1P3K_3355Ttmw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV19aLUhRdndFMVE&resourcekey=0-asSbESjpk1P3K_3355Ttmw" width="240" alt="1978 - M625B - Power Supply.jpg"></a><br><sub>1978|11 · Power Supply</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1978|11 · Power Supply_small](https://drive.google.com/file/d/0B0yR0b5T78SKUTJ4V3hkQ1lKclU/view?resourcekey=0-Qe96zlJ6qY34vyuYnWTEEA)
-
-Not on Google Drive yet: `WBS - ART - M625B power supply - Inside(1).jpg`, `WBS-ART-M625B-power-supply-Inside-1000x288.jpg`, `WBS-ART-M625B-power-supply-Inside-1024x668.jpg`, `WBS-ART-M625B-power-supply-Inside-150x150.jpg`, `WBS-ART-M625B-power-supply-Inside-200x200.jpg`, `WBS-ART-M625B-power-supply-Inside-300x195.jpg`, `WBS-ART-M625B-power-supply-Inside-460x300.jpg`, `WBS-ART-M625B-power-supply-Inside-600x391.jpg`, `WBS-ART-M625B-power-supply-Inside-624x407.jpg`, `WBS-ART-M625B-power-supply-Inside-768x501.jpg`
+Not on Google Drive yet: `WBS - ART - M625B power supply - Inside(1).jpg`, `WBS-ART-M625B-power-supply-Inside-1000x288.jpg`, `WBS-ART-M625B-power-supply-Inside-1024x668.jpg`, `WBS-ART-M625B-power-supply-Inside-200x200.jpg`, `WBS-ART-M625B-power-supply-Inside-300x195.jpg`, `WBS-ART-M625B-power-supply-Inside-460x300.jpg`, `WBS-ART-M625B-power-supply-Inside-600x391.jpg`, `WBS-ART-M625B-power-supply-Inside-624x407.jpg`, `WBS-ART-M625B-power-supply-Inside-768x501.jpg`
 
 ## Schematics
 
