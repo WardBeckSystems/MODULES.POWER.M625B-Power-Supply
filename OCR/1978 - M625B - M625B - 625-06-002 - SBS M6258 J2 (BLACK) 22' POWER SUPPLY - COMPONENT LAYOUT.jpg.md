@@ -1,5 +1,5 @@
 # 1978 - M625B - M625B - 625-06-002 - SBS M6258 J2 (BLACK) 22' POWER SUPPLY - COMPONENT LAYOUT.jpg
-Wiki page: [M625B](../../../../PAGES/M625B.md)
+Wiki page: [M625B](../)
 
 
 - **Year:** 1978 (module estimate (labelled))

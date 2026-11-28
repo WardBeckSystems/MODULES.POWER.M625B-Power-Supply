@@ -1,5 +1,5 @@
 # WBS-ART-M625B-power-supply-Inside-300x195.jpg
-Wiki page: [M625B](../../../../PAGES/M625B.md)
+Wiki page: [M625B](../)
 
 
 - **Year:** unknown (title block (read by eye))

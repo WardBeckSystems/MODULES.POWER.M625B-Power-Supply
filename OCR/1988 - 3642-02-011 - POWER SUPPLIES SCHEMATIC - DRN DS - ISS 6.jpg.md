@@ -1,5 +1,5 @@
 # 1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6.jpg
-Wiki page: [M625B](../../../../PAGES/M625B.md)
+Wiki page: [M625B](../)
 
 
 - **Year:** 1988 (title block date)

@@ -1,5 +1,5 @@
 # 1978 - M625B - Power supply.pdf
-Wiki page: [M625B](../../../../PAGES/M625B.md)
+Wiki page: [M625B](../)
 
 
 - **Year:** 1978 (found in this file: "MAY 78")

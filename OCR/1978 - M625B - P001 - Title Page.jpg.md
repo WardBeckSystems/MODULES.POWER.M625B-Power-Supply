@@ -1,5 +1,5 @@
 # 1978 - M625B - P001 - Title Page.jpg
-Wiki page: [M625B](../../../../PAGES/M625B.md)
+Wiki page: [M625B](../)
 
 
 - **Year:** 1978 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1978 - M625B - LAEE EAK SYOA.jpg
-Wiki page: [M625B](../../../../PAGES/M625B.md)
+Wiki page: [M625B](../)
 
 
 - **Year:** 1978 (found in this file: "DATE MAY 78")
