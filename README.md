@@ -4,13 +4,12 @@ Ward-Beck Systems M625B, 1978|11. Wiki page: [M625B on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 49 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 205 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 48 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 204 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 11 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 55 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -62,8 +61,6 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV19aLUhRdndFMVE/view?resourcekey=0-asSbESjpk1P3K_3355Ttmw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV19aLUhRdndFMVE&resourcekey=0-asSbESjpk1P3K_3355Ttmw" width="240" alt="1978 - M625B - Power Supply.jpg"></a><br><sub>1978|11 · Power Supply</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `WBS - ART - M625B power supply - Inside(1).jpg`, `WBS-ART-M625B-power-supply-Inside-1000x288.jpg`, `WBS-ART-M625B-power-supply-Inside-1024x668.jpg`, `WBS-ART-M625B-power-supply-Inside-200x200.jpg`, `WBS-ART-M625B-power-supply-Inside-300x195.jpg`, `WBS-ART-M625B-power-supply-Inside-460x300.jpg`, `WBS-ART-M625B-power-supply-Inside-600x391.jpg`, `WBS-ART-M625B-power-supply-Inside-624x407.jpg`, `WBS-ART-M625B-power-supply-Inside-768x501.jpg`
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -74,8 +71,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSC1Ec1pWQUY2UmM/view?resourcekey=0-678cx7jix3j_CyK6Noxu-g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSC1Ec1pWQUY2UmM&resourcekey=0-678cx7jix3j_CyK6Noxu-g" width="240" alt="1978 - M625B - 625-06-002.jpg"></a><br><sub>1978|11 · 625-06-002 · <a href="SCHEMATICS/1978%20-%20M625B%20-%20625-06-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKX1JwRFpFMFEwYkk/view?resourcekey=0-Nu6lSppFXEQxHyJtcj1nsA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKX1JwRFpFMFEwYkk&resourcekey=0-Nu6lSppFXEQxHyJtcj1nsA" width="240" alt="1978 - M625B - 717-06-001 - ZOK- DIF.jpg"></a><br><sub>1978|11 · 717-06-001 - ZOK- DIF · <a href="SCHEMATICS/1978%20-%20M625B%20-%20717-06-001%20-%20ZOK-%20DIF%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeHQtTXd2LVJKaEU/view?resourcekey=0-M-2UGk7TWli3-jQVXooBPg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeHQtTXd2LVJKaEU&resourcekey=0-M-2UGk7TWli3-jQVXooBPg" width="240" alt="1978 - M625B - M625B - 625-06-002 - SBS M6258 J2 (BLACK) 22' POWER SUPPLY - COMPONENT LAYOUT.jpg"></a><br><sub>1978|11 · M625B - 625-06-002 - SBS M6258 J2 (BLACK) 22' POWER SUPPLY - COMPONENT LAYOUT · <a href="SCHEMATICS/1978%20-%20M625B%20-%20M625B%20-%20625-06-002%20-%20SBS%20M6258%20J2%20(BLACK)%2022%27%20POWER%20SUPPLY%20-%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1hvy308Zi-e1U8o6Oe47SzDE4b0PxqeSH/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1hvy308Zi-e1U8o6Oe47SzDE4b0PxqeSH" width="240" alt="19xx - M625B - DOC - 600-02-009 - POWER SUPPLY WIRING SCHEMA TIC.png"></a><br><sub>19xx - M625B - DOC - 600-02-009 - POWER SUPPLY WIRING SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M625B%20-%20DOC%20-%20600-02-009%20-%20POWER%20SUPPLY%20WIRING%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1982 - 1-117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW - ISS 8.jpg`, `1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6.jpg`
 
 ## Manuals and documents
 
@@ -109,7 +104,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6.kicad_sch](KICAD/1988%20-%203642-02-011%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ISS%206.kicad_sch)
 - [19xx - M625B - DOC - 600-02-009 - POWER SUPPLY WIRING SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M625B%20-%20DOC%20-%20600-02-009%20-%20POWER%20SUPPLY%20WIRING%20SCHEMA%20TIC.kicad_sch)
 - [M625B.kicad_sym](KICAD/M625B.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
